@@ -1,0 +1,1 @@
+g++ -fdiagnostics-color=always -g Main.cpp -o .\\build\\InnovationDiffusion.exe -O3 -std=c++20 -Wall -fopenmp -lpthread -floop-parallelize-all -I.\\Libraries\\indicators\\include

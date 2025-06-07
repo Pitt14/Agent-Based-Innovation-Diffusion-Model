@@ -1,0 +1,3 @@
+[submodule "Libraries/CppProgressBar"]
+	path = Libraries/CppProgressBar
+	url = https://github.com/Pitt14/CppProgressBar.git
